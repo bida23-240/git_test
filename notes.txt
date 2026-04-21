@@ -1,2 +1,2 @@
-This line is from feature branch.
+This line was merged after resolving a conflict.
 I am practising commits, pushes, branches, tags, releases, and merge conflicts.
