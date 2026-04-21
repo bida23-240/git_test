@@ -1,0 +1,2 @@
+This repo is for learning Git.
+I am practising commits, pushes, branches, tags, releases, and merge conflicts.
