@@ -11,3 +11,4 @@ This repository is for learning Git and GitHub.
 - releases
 - gitignore
 - markdown documentation
+Hotfix branches are used for urgent fixes.
